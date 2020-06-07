@@ -18,7 +18,7 @@ npm i
 
 ## Dando Start
 
-Para iniciaro projeto será necessário digitar o seguinte comando ainda na raiz do projeto
+Para iniciar o projeto será necessário digitar o seguinte comando ainda na raiz do projeto
 
 ```python
 npm run start
