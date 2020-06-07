@@ -4,8 +4,8 @@ Este é meu primeiro CRUD e inclusive meu primeiro projeto, neste projeto o foco
 
 # Preview
 
-![Alt text](/relative/path/to/blob:https://pbs.twimg.com/media/EZ8YfHoXYAA5imi?format=png&name=large?raw=true "Lgin")
-![Alt text](/relative/path/to/blob:https://pbs.twimg.com/media/EZ8YfHpXsAUnJgh?format=png&name=large?raw=true "Agenda")
+![Alt text](https://pbs.twimg.com/media/EZ8YfHoXYAA5imi?format=png&name=large "Login")
+![Alt text](https://pbs.twimg.com/media/EZ8YfHpXsAUnJgh?format=png&name=large "Agenda")
 
 ## Baixando arquivos necessários
 
