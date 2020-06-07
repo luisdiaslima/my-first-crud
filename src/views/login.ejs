@@ -20,12 +20,12 @@
                   <input type="hidden" name="_csrf" value= <%= csrfToken %>>
                     <div class="form-group">
                       <label>Seu melhor e-mail</label>
-                      <input type="email" class="form-control" name="email">
+                      <input type="email" class="form-control" name="email" required>
                       <p id="erro-email-cadastro"></p>
                     </div>
                     <div class="form-group">
                         <label>Sue melhor senha</label>
-                        <input type="password" class="form-control" name="password">
+                        <input type="password" class="form-control" name="password" required>
                         <p id="erro-senha-cadastro"></p>
                       </div>
                     <button type="submit" class="btn btn-primary">Criar minha conta</button>
@@ -42,12 +42,12 @@
 
                     <div class="form-group">
                       <label>Seu melhor e-mail</label>
-                      <input type="email" class="form-control" name="email">
+                      <input type="email" class="form-control" name="email" required>
   
                     </div>
                     <div class="form-group">
                         <label>Sua melhor senha</label>
-                        <input type="password" class="form-control" name="password">
+                        <input type="password" class="form-control" name="password" required>
                       </div>
                     <button type="submit" class="btn btn-primary">Entrar</button>
                   </form>
