@@ -18,7 +18,7 @@ npm i
 
 ## Dando Start
 
-Para iniciaro projeto será necessário digitar o seguinte comando ainda na raiz do projeto.
+Para iniciaro projeto será necessário digitar o seguinte comando ainda na raiz do projeto
 
 ```python
 npm run start
@@ -29,11 +29,15 @@ Tudo pronto, poderá te-lo em vista no seu browser através do link: http://loca
 - JavaScript
 - NodeJs
 - Express
-- SQLITE3
-- NUNJUCKS
+- MONGODB
+- EJS
+- WebPack
+## Listando meus contatos
+
+No botão entrar você poderá criar ou entrar em uma conta, após logar você pode ir em 'Adicionar Contatos' localizado no menu, adicionando um contato você poderá vê-lo na agenda, inclusive podendo remover ou editar os contatos desejados.
 
 ## Relevâncias
-Promovido a experiência ao consumir uma API, usar a tecnologia express disponibilizada pelo Node.js e implementação de um modo noturno.
+Durante esta experiência pude conhecer melhor o 'Express', e ter uma ótima prática de tratamendo de dados com o 'MongoDB', a utilização de outras diversas dependências como 'CSurf' ou 'Connect-Flashs' também foi aplicações muito relevantes. Também foi utilizado 'WebPack' como empacotador de módulos, e junto a ele o 'babel'.
 
-## Preview
-![](/ecoleta.PNG)
+## Agradecimentos
+Agradeço ao Luiz Otávio Miranda por me fornecer infinitos conhecimentos na área de desenvolvimento web.
