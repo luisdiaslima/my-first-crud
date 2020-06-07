@@ -4,8 +4,8 @@ Este é meu primeiro CRUD e inclusive meu primeiro projeto, neste projeto o foco
 
 # Preview
 
-![Alt text](/relative/path/to/blob:https://twitter.com/15cde4ad-0a01-4111-933a-4e12b481534a?raw=true "Lgin")
-![Alt text](/relative/path/to/blob:https://twitter.com/f73e221f-4e27-43ba-8c93-32c59b2dde3c?raw=true "Agenda")
+![Alt text](/relative/path/to/blob:https://pbs.twimg.com/media/EZ8YfHoXYAA5imi?format=png&name=large?raw=true "Lgin")
+![Alt text](/relative/path/to/blob:https://pbs.twimg.com/media/EZ8YfHpXsAUnJgh?format=png&name=large?raw=true "Agenda")
 
 ## Baixando arquivos necessários
 
