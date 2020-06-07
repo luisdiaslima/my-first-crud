@@ -1,6 +1,6 @@
 #   Início
 
-Este é meu primeiro CRUD e inclusive meu primeiro projeto, neste projeto o foco é back-end.
+Este é meu primeiro CRUD e inclusive meu primeiro projeto, nele o foco é back-end.
 
 # Preview
 
