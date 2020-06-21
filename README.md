@@ -2,11 +2,6 @@
 
 Este é meu primeiro CRUD e inclusive meu primeiro projeto, nele o foco é back-end.
 
-# Preview
-
-![Alt text](https://pbs.twimg.com/media/EZ8YfHoXYAA5imi?format=png&name=large "Login")
-![Alt text](https://pbs.twimg.com/media/EZ8YfHpXsAUnJgh?format=png&name=large "Agenda")
-
 ## Baixando arquivos necessários
 
 Você precisará fazer dowload do Node.js(https://nodejs.org/en/download/).
